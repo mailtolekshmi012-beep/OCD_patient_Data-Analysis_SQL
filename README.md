@@ -14,8 +14,8 @@ Skills Demonstrated
 
 --Retrive Howl data
 
-SELECT *
-FROM ocd_patient
+   SELECT *
+   FROM ocd_patient
 
 
 -- Data Cleaning 
